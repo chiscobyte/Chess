@@ -1,0 +1,94 @@
+{
+    "films": [
+      {
+        "id": "2",
+        "title": "Beekeeper",
+        "runtime": "118",
+        "capacity": 50,
+        "showtime": "06:45PM",
+        "tickets_sold": 46,
+        "poster": "https://i.ebayimg.com/images/g/Lz4AAeSw0adn2M0o/s-l960.webp",
+        "description": "A gripping sequel to the heist thriller."
+      },
+      {
+        "id": "3",
+        "title": "Mickey 17",
+        "runtime": "127",
+        "capacity": 100,
+        "showtime": "05:00PM",
+        "tickets_sold": 46,
+        "poster": "https://i.ebayimg.com/images/g/dmEAAOSwuntn0Yq0/s-l960.webp",
+        "description": "A sci-fi thriller about survival and identity."
+      },
+      {
+        "id": "4",
+        "title": "lee",
+        "runtime": "95",
+        "capacity": 80,
+        "showtime": "02:30PM",
+        "tickets_sold": 26,
+        "poster": "https://i.ebayimg.com/images/g/hSkAAeSwlT1n0Kpq/s-l960.webp",
+        "description": "Join Paddington on a heartwarming adventure in Peru."
+      },
+      {
+        "id": "5",
+        "title": "Mission: Impossible – The Final Reckoning",
+        "runtime": "146",
+        "capacity": 120,
+        "showtime": "08:00PM",
+        "tickets_sold": 63,
+        "poster": "https://i.ebayimg.com/images/g/JEkAAOSw2uNnN4-E/s-l1600.webp",
+        "description": "Tom Cruise returns for an action-packed final mission."
+      },
+      {
+        "id": "6",
+        "title": "Lilo & Stitch",
+        "runtime": "105",
+        "capacity": 75,
+        "showtime": "03:15PM",
+        "tickets_sold": 32,
+        "poster": "https://i.ebayimg.com/images/g/pbwAAOSwXs9n25J2/s-l1600.webp",
+        "description": "A live-action remake of the beloved Disney classic."
+      },
+      {
+        "id": "7",
+        "title": "28 Years Later",
+        "runtime": "112",
+        "capacity": 90,
+        "showtime": "07:45PM",
+        "tickets_sold": 77,
+        "poster": "https://i.ebayimg.com/images/g/Fk4AAOSwOKJnpVJC/s-l500.webp",
+        "description": "A haunting sequel to the zombie thriller."
+      },
+      {
+        "id": "8",
+        "title": "Minecraft: The Movie",
+        "runtime": "110",
+        "capacity": 100,
+        "showtime": "01:00PM",
+        "tickets_sold": 40,
+        "poster": "https://i.ebayimg.com/images/g/WCQAAOSwB6hn0k4w/s-l500.webp",
+        "description": "An adventure based on the hit video game."
+      },
+      {
+        "id": "9",
+        "title": "Den of Thieves 2: Pantera",
+        "runtime": "130",
+        "capacity": 85,
+        "showtime": "09:30PM",
+        "tickets_sold": 60,
+        "poster": "https://i.ebayimg.com/images/g/qSkAAeSwFldnzCjS/s-l500.webp",
+        "description": "A gripping sequel to the heist thriller."
+      },
+      {
+        "id": "10",
+        "title": "Flight Risk",
+        "runtime": "100",
+        "capacity": 70,
+        "showtime": "04:45PM",
+        "tickets_sold": 20,
+        "poster": "https://i.ebayimg.com/images/g/qkwAAOSwCwZnseSB/s-l500.webp",
+        "description": "A tense thriller starring Mark Wahlberg."
+      }
+    ]
+  }
